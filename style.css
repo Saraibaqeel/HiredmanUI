@@ -1,4 +1,9 @@
-
+body{
+    background-image: url("images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
 /* login page start */
 .login{
     float: inline-end;
